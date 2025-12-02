@@ -12,7 +12,7 @@ async def start(update: Update, context):
     intro_text = (
         "Salam! 👋\n\n"
         "Maňa random bir zat ýaz we men surat döredeýin.\n"
-        "Mysal üçin: `harry potter`, `täze ýyl` gibi..."
+        "Mysal üçin: `harry potter`, `football` ýaly..."
     )
     await update.message.reply_text(intro_text)
 
