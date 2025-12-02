@@ -8,7 +8,7 @@ import os
 TOKEN = os.getenv("BOT_TOKEN")
 
 # Admin Telegram ID'nizi buraya yazın
-ADMIN_ID = os.getenv("ADMIN")   # <-- BURAYA kendi ID'nizi yazın!
+ADMIN_ID = 7172270461   # <-- BURAYA kendi ID'nizi yazın!
 
 
 # --- Kullanıcı Kaydı ---
